@@ -1,7 +1,26 @@
-👋 Hi, I’m @digitaleflex <br/>
-👀 I’m interested in exploring the limitless possibilities of digital transformation and cutting-edge technologies.  <br/>
-🌱 I’m currently learning advanced techniques in cloud computing and data analytics to stay at the forefront of the tech landscape.  <br/>
-💞️ I’m looking to collaborate on innovative projects that push the boundaries of digital innovation and make a positive impact. <br/>
-📫 How to reach me: Feel free to drop me a message here or reach out via email at [eurin@digitaleflex.com].  <br/>
-😄 Pronouns: Tech enthusiast, problem solver, lifelong learner. <br/>
-⚡ Fun fact: I can write code that speaks the language of innovation and turns ideas into digital reality!  <br/>
+# 👋 Hi, I’m **@digitaleflex**  
+
+🚀 Passionate about **digital transformation** and cutting-edge **technology**, I'm on a mission to turn innovative ideas into reality through **cloud computing, AI, and data analytics**.  
+
+## 🌟 About Me  
+🔹 **Tech Enthusiast** | **Problem Solver** | **Lifelong Learner**  
+🔹 Always exploring the next big thing in **digital innovation**  
+🔹 Building scalable, secure, and efficient **cloud architectures**  
+🔹 Helping businesses and individuals **embrace the future of tech**  
+
+## 📚 Currently Learning  
+- Advanced **Cloud Computing** techniques  
+- **Data Analytics & AI** for smarter decision-making  
+- **DevOps & Automation** to optimize workflows  
+
+## 🤝 Looking to Collaborate On  
+🔹 **Innovative projects** pushing the limits of technology  
+🔹 **Digital transformation** strategies for businesses  
+🔹 **Open-source contributions** that drive real impact  
+
+## 📫 Get in Touch  
+💌 Email: [eurin@digitaleflex.com](mailto:eurin@digitaleflex.com)  
+💼 Website: [digitaleflex.com](https://digitaleflex.com)  
+💬 Let's connect and build the future together!  
+
+⚡ **Fun Fact**: I write code that speaks the language of innovation and turns **ideas into reality**!  
