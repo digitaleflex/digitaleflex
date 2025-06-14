@@ -20,9 +20,9 @@ Accompagner les individus et les entreprises dans la transformation numérique �
 ---
 
 ## 🚀 Projets phares  
-### 🔹 `flexpress-pro-dev`  
+### 🔹 `flexpress-core`  
 🧠 Image Docker ultra-optimisée pour développeurs & agences WordPress  
-🔗 [Docker Hub](https://hub.docker.com/r/eflexcloud/wordpress-custom)
+🔗 [Docker Hub](https://hub.docker.com/repository/docker/eflexcloud/flexpress-core/general)
 
 ### 🔹 `academy.digitaleflex.com`  
 🎓 Plateforme eLearning propulsée par WordPress, LearnDash, et Cloudinary  
