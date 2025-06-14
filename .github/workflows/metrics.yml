@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Exécution tous les jours à minuit UTC
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -16,29 +16,17 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # 🧱 Modules de base
           base: header, activity, community, repositories, metadata
 
-          # 🌟 Achievements (badges d'activité)
-          plugin_achievements: yes
-          plugin_achievements_threshold: B  # Filtrer les petits badges (C/D)
-
-          # 🧠 Langages utilisés
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, scss, dockerfile, gnuplot
-          plugin_languages_skipped: digitaleflex, legacy-project
+          plugin_languages_ignored: html, css, scss, dockerfile
           plugin_languages_limit: 6
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: no  # évite les calculs trop longs
+          plugin_languages_indepth: no
 
-          # 🧮 Lignes de code
           plugin_lines: yes
-
-          # 🔁 Trafic (visites)
           plugin_traffic: yes
 
-          # ⏱️ Performance
-          config_timezone: Africa/Porto-Novo
-          retries: 3
-          delay: 2s
+          plugin_achievements: no  # <-- désactivé à cause de l'erreur GitHub Projects
+          plugin_notable: yes
+          plugin_notable_filter: stars
+          plugin_notable_repositories: 3
