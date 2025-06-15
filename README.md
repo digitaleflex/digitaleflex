@@ -1,64 +1,102 @@
-# 👨‍💻 Eurin HASH | Architecte de Solutions Digitales  
-🔧 Cloud Computing • 🛡️ Cybersécurité • 🧠 IA • 🧰 DevOps • 📡 Systèmes Distribués  
+# 👨‍💻 Eurin HASH | Architecte de Solutions Digitales & Stratège Cloud
 
-Bienvenue sur mon espace GitHub. Ici, j'explore, je construis et je partage l'innovation technologique.
+🔧 Cloud Computing • 🛡️ Cybersécurité • 🧠 IA • 🧰 DevOps • 📡 Systèmes Distribués • 📦 Automatisation
 
----
-
-## 🧭 Mission  
-Accompagner les individus et les entreprises dans la transformation numérique à travers des solutions **scalables**, **sécurisées** et **intelligentes**.
+Bienvenue dans mon **univers technique** où je fusionne **technologie**, **spiritualité** et **innovation sociale** pour créer des solutions **impactantes**, **scalables** et **durables**.
 
 ---
 
-## 🧱 Compétences Clés  
-- ☁️ **Cloud & DevOps** : AWS (certifié), Terraform, Docker, Kubernetes  
-- 🛡️ **Sécurité Informatique** : Ethical Hacking, IDS/IPS, Sécurité Web  
-- 🧠 **IA & Data** : Data Analytics, Machine Learning (NLP, Classification, Génération)  
-- 🧰 **Outils Dev** : GitHub Actions, CI/CD, Linux, Python, Bash  
-- 🏗️ **Architecture** : Systèmes distribués, API, WordPress avancé, Headless CMS  
+## 🧭 Ma Mission
+
+💡 **Accompagner la transformation digitale** des individus, des entreprises et des organisations grâce à des solutions :
+- **Cloud Native**, performantes et sécurisées
+- **Automatisées** via DevOps et Infrastructure-as-Code
+- **Pédagogiques**, grâce à mes formations techniques
+- **Spirituelles**, à travers des projets numériques inspirés
 
 ---
 
-## 🚀 Projets phares  
-### 🔹 `flexpress-core`  
-🧠 Image Docker ultra-optimisée pour développeurs & agences WordPress  
-🔗 [Docker Hub](https://hub.docker.com/repository/docker/eflexcloud/flexpress-core/general)
+## 🧱 Domaines d’Expertise
 
-### 🔹 `academy.digitaleflex.com`  
-🎓 Plateforme eLearning propulsée par WordPress, LearnDash, et Cloudinary  
-💡 Objectif : Rendre l’apprentissage tech **pratique et accessible**
-
-### 🔹 `Calendrier Divin`  
-🕊️ Digitalisation mystique d’un calendrier spirituel avec logique théologique et numérique  
-🌐 [Plus d'infos](https://sainteadoration.com)
+| Domaine | Technologies / Méthodes |
+|--------|--------------------------|
+| ☁️ **Cloud & DevOps** | AWS (certifié CLF-C02), Docker, GitHub Actions, Terraform, Ansible, VPS (Hostinger), CI/CD |
+| 🛡️ **Cybersécurité** | Hacking éthique, outils IDS/IPS (Snort, Suricata), chiffrement, partition cachée, OS durci |
+| 🧠 **Data & IA** | Data Analytics, NLP, LangChain, OpenAI API, Python, Pandas |
+| 🖥️ **Systèmes Distribués** | PXE boot, MDT/WDS, NAS, automatisation réseau local |
+| 🛠️ **Dév. Web & WordPress** | Headless CMS, FlexPress (Docker WP), LearnDash, Flatsome, sécurité WP |
+| 🎓 **Formation & Mentorat** | HTML/CSS/JS, cybersécurité, WordPress, cloud, stratégie numérique |
 
 ---
 
-## 🏅 Badges GitHub  
-![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-Practitioner-blue?logo=docker)  
-![Security](https://img.shields.io/badge/Cybersecurity-Ethical%20Hacker-red?logo=hackthebox)  
-![Python](https://img.shields.io/badge/Code-Python%2FBash-yellow?logo=python)
+## 🚀 Projets Significatifs
+
+### 🔹 [`flexpress-core`](https://hub.docker.com/repository/docker/eflexcloud/flexpress-core/general)
+📦 Image Docker **ultra-optimisée** pour WordPress (version Pro Dev)  
+👨‍💻 Destiné aux développeurs & agences cherchant performance et sécurité
+
+### 🔹 [`academy.digitaleflex.com`](https://academy.digitaleflex.com)
+🎓 Plateforme eLearning complète avec WordPress + LearnDash + Cloudinary  
+📘 Formations en HTML/CSS/JS, Cybersécurité, WordPress eCommerce
+
+### 🔹 [`Calendrier Divin`](https://sainteadoration.com)
+🕊️ Digitalisation mystique d’un calendrier spirituel  
+📿 Combinaison unique de foi, design théologique et technologie numérique
+
+### 🔹 [`HashPress`](https://eurinhash.com)
+⚙️ Développement de CMS modulaire WordPress sous Docker  
+🎯 Objectif : offrir une alternative performante et libre à WordPress standard
 
 ---
 
-## 📈 Statistiques GitHub  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitaleflex&layout=compact&theme=tokyonight)  
+## 📊 GitHub Insights
+
+| Stat | Valeur |
+|------|--------|
+| ⭐ Total Stars | 7 |
+| 🛠️ Commits (2025) | 230 |
+| 🔃 Pull Requests | 27 |
+| 📁 Contribué à | 6 projets |
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitaleflex&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=digitaleflex&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🧾 Récapitulatif Contributions  
-### 2025  
-- 🔧 Lancement de **FlexPress Pro Dev**  
-- 🧪 Expérimentation de **stack WordPress Headless (Next.js + API)**  
-- 📚 Rédaction de formations : **HTML/CSS/JS**, **Cybersécurité**, **WordPress eCommerce**  
-- 📡 Déploiement de solution PXE pour installation Windows automatisée  
-- ☁️ Certification AWS obtenue  
+## 🏅 Certifications & Badges
+
+![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white)
+![Docker Dev](https://img.shields.io/badge/Docker-DevOps-blue?logo=docker)
+![Ethical Hacker](https://img.shields.io/badge/Cybersecurity-Ethical%20Hacker-red?logo=hackthebox)
+![Python](https://img.shields.io/badge/Code-Python%2FBash-yellow?logo=python)
+![WordPress Pro](https://img.shields.io/badge/WordPress-Expert-lightgrey?logo=wordpress)
 
 ---
 
-## 🤝 Contact  
-📬 [eurin@digitaleflex.com](mailto:eurin@digitaleflex.com)  
-🌍 [https://eurinhash.com](https://eurinhash.com)  
-💼 [https://digitaleflex.com](https://digitaleflex.com)  
+## 🗂️ En cours / À venir
+
+- 🔄 Refonte de `digitaleflex.com` et centralisation des projets
+- 🧪 Tests sur WordPress Headless + Next.js
+- 📚 Lancement d’un **livre blanc** sur l’architecture numérique souveraine (FlexHOST)
+- 🛠️ Construction d’un **cloud hybride local** (FlexCloud) au Bénin
+- 🧾 Création d’un **grimoire mystique du Mage Numérique**
+
+---
+
+## ✨ Fun Fact
+
+Je suis convaincu que **le code peut aussi être un acte spirituel**.  
+Entre deux commits, je médite, je prie et je pense aux prochaines lignes qui transformeront des vies — avec foi et technologie.
+
+---
+
+## 📫 Me contacter
+
+- ✉️ Email : [eurin@digitaleflex.com](mailto:eurin@digitaleflex.com)  
+- 🌐 Site Pro : [https://digitaleflex.com](https://digitaleflex.com)  
+- 🧠 Identité Perso : [https://eurinhash.com](https://eurinhash.com)  
+- 🔗 Docker Hub : [eflexcloud](https://hub.docker.com/u/eflexcloud)  
+- 🧪 GitHub Projects : [github.com/digitaleflex](https://github.com/digitaleflex)
+
+---
+
