@@ -49,19 +49,6 @@ Bienvenue dans mon **univers technique** où je fusionne **technologie**, **spir
 
 ---
 
-## 📊 GitHub Insights
-
-| Stat | Valeur |
-|------|--------|
-| ⭐ Total Stars | 7 |
-| 🛠️ Commits (2025) | 230 |
-| 🔃 Pull Requests | 27 |
-| 📁 Contribué à | 6 projets |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitaleflex&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=digitaleflex&show_icons=true&theme=tokyonight)
-
----
 
 ## 🏅 Certifications & Badges
 
