@@ -1,18 +1,18 @@
 # 👨‍💻 Eurin HASH | Architecte de Solutions Digitales & Stratège Cloud
 
-🔧 Cloud Computing • 🛡️ Cybersécurité • 🧠 IA • 🧰 DevOps • 📡 Systèmes Distribués • 📦 Automatisation
+🔧 Cloud Computing • 🛡️ Cybersécurité • 🧰 DevOps • 📦 Automatisation • 🧠 Innovation Numérique
 
-Bienvenue dans mon **univers technique** où je fusionne **technologie**, **spiritualité** et **innovation sociale** pour créer des solutions **impactantes**, **scalables** et **durables**.
+Bienvenue dans mon **univers technique et humain** où je fusionne **technologie**, **innovation sociale** et **spiritualité** pour créer des solutions **scalables**, **sécurisées** et **impactantes**.
 
 ---
 
 ## 🧭 Ma Mission
 
-💡 **Accompagner la transformation digitale** des individus, des entreprises et des organisations grâce à des solutions :
-- **Cloud Native**, performantes et sécurisées
-- **Automatisées** via DevOps et Infrastructure-as-Code
-- **Pédagogiques**, grâce à mes formations techniques
-- **Spirituelles**, à travers des projets numériques inspirés
+💡 **Accompagner la transformation digitale** en Afrique et au-delà, en bâtissant des solutions :
+- **Cloud souverain** : infrastructures locales, modulaires et sécurisées  
+- **Automatisées** : DevOps, CI/CD, Infrastructure-as-Code  
+- **Communautaires** : mentorat, open-source, formation IT  
+- **Inspirées** : projets où technologie et spiritualité se rejoignent  
 
 ---
 
@@ -20,70 +20,73 @@ Bienvenue dans mon **univers technique** où je fusionne **technologie**, **spir
 
 | Domaine | Technologies / Méthodes |
 |--------|--------------------------|
-| ☁️ **Cloud & DevOps** | AWS (certifié CLF-C02), Docker, GitHub Actions, Terraform, Ansible, VPS (Hostinger), CI/CD |
-| 🛡️ **Cybersécurité** | Hacking éthique, outils IDS/IPS (Snort, Suricata), chiffrement, partition cachée, OS durci |
-| 🧠 **Data & IA** | Data Analytics, NLP, LangChain, OpenAI API, Python, Pandas |
-| 🖥️ **Systèmes Distribués** | PXE boot, MDT/WDS, NAS, automatisation réseau local |
-| 🛠️ **Dév. Web & WordPress** | Headless CMS, FlexPress (Docker WP), LearnDash, Flatsome, sécurité WP |
-| 🎓 **Formation & Mentorat** | HTML/CSS/JS, cybersécurité, WordPress, cloud, stratégie numérique |
+| ☁️ **Cloud & DevOps** | AWS (certifié CLF-C02), Docker, Traefik, GitHub Actions, Jenkins, VPS (Eflex), CI/CD |
+| 🛡️ **Cybersécurité** | IAM, sécurité WordPress, DevSecOps, monitoring temps réel |
+| 🖥️ **Infrastructure & Réseaux** | Supervision, PXE boot, MDT/WDS, monitoring & alertes |
+| 🌐 **Développement Web** | Next.js, WordPress (FlexPress Core), Headless CMS, e-commerce |
+| 🎓 **Formation & Mentorat** | HTML/CSS/JS, cybersécurité, cloud, DevOps, stratégies numériques |
+| 🤝 **Communautés & Open-Source** | Hashcode Informatique (+200 membres), Code12, WPOpsX |
 
 ---
 
 ## 🚀 Projets Significatifs
 
 ### 🔹 [`flexpress-core`](https://hub.docker.com/repository/docker/eflexcloud/flexpress-core/general)
-📦 Image Docker **ultra-optimisée** pour WordPress (version Pro Dev)  
-👨‍💻 Destiné aux développeurs & agences cherchant performance et sécurité
+📦 Image Docker **optimisée** pour WordPress (version Pro Dev & Agences)  
+⚡ Performance, sécurité et modularité au service des développeurs  
 
 ### 🔹 [`academy.digitaleflex.com`](https://academy.digitaleflex.com)
-🎓 Plateforme eLearning complète avec WordPress + LearnDash + Cloudinary  
-📘 Formations en HTML/CSS/JS, Cybersécurité, WordPress eCommerce
+🎓 Plateforme eLearning (WordPress + LearnDash + Cloudinary)  
+📘 Formations en cybersécurité, WordPress eCommerce, DevOps et Cloud  
 
 ### 🔹 [`Calendrier Divin`](https://sainteadoration.com)
-🕊️ Digitalisation mystique d’un calendrier spirituel  
-📿 Combinaison unique de foi, design théologique et technologie numérique
+🕊️ Digitalisation d’un calendrier liturgique et mystique  
+📿 Alliance entre foi, design théologique et technologie numérique  
 
-### 🔹 [`HashPress`](https://eurinhash.com)
-⚙️ Développement de CMS modulaire WordPress sous Docker  
-🎯 Objectif : offrir une alternative performante et libre à WordPress standard
+### 🔹 [`Hashcode QG`](https://hashcode.eurinhash.com)
+👥 Hub communautaire pour développeurs, cloud engineers et passionnés IT  
+📂 Parcours personnalisés, forums, mentorat et projets collaboratifs  
+
+### 🔹 [`FlexHOST`](https://digitaleflex.com)
+☁️ Infrastructure cloud souveraine en construction au Bénin  
+🔒 FlexCloud, FlexSafe, FlexWeb : modularité et souveraineté numérique  
 
 ---
-
 
 ## 🏅 Certifications & Badges
 
 ![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white)
 ![Docker Dev](https://img.shields.io/badge/Docker-DevOps-blue?logo=docker)
-![Ethical Hacker](https://img.shields.io/badge/Cybersecurity-Ethical%20Hacker-red?logo=hackthebox)
-![Python](https://img.shields.io/badge/Code-Python%2FBash-yellow?logo=python)
-![WordPress Pro](https://img.shields.io/badge/WordPress-Expert-lightgrey?logo=wordpress)
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black?logo=nextdotjs)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security%20%26%20IAM-red?logo=protonvpn)
+![WordPress Pro](https://img.shields.io/badge/WordPress-FlexPress%20Core-lightgrey?logo=wordpress)
 
 ---
 
 ## 🗂️ En cours / À venir
 
-- 🔄 Refonte de `digitaleflex.com` et centralisation des projets
-- 🧪 Tests sur WordPress Headless + Next.js
-- 📚 Lancement d’un **livre blanc** sur l’architecture numérique souveraine (FlexHOST)
-- 🛠️ Construction d’un **cloud hybride local** (FlexCloud) au Bénin
-- 🧾 Création d’un **grimoire mystique du Mage Numérique**
+- 🚀 Déploiement du **forum Hashcode** (communauté tech)  
+- 🔄 Refonte de `digitaleflex.com` comme hub central  
+- 🧪 Expérimentations : **WordPress Headless + Next.js**  
+- ☁️ Lancement du **cloud hybride local FlexHOST** au Bénin  
+- 📚 Rédaction d’un **livre blanc sur la souveraineté numérique**  
+- 🧾 Développement d’un **Grimoire numérique personnel** (leadership spirituel & tech)  
 
 ---
 
 ## ✨ Fun Fact
 
-Je suis convaincu que **le code peut aussi être un acte spirituel**.  
-Entre deux commits, je médite, je prie et je pense aux prochaines lignes qui transformeront des vies — avec foi et technologie.
+Je crois que **coder peut être un acte spirituel**.  
+Entre deux pipelines CI/CD, je médite, je prie, et je rêve de solutions numériques qui libèrent des communautés et préparent l’avenir.
 
 ---
 
 ## 📫 Me contacter
 
-- ✉️ Email : [eurin@digitaleflex.com](mailto:eurin@digitaleflex.com)  
+- ✉️ Email : [eurin@eurinhash.com](mailto:eurin@eurinhash.com)  
 - 🌐 Site Pro : [https://digitaleflex.com](https://digitaleflex.com)  
 - 🧠 Identité Perso : [https://eurinhash.com](https://eurinhash.com)  
 - 🔗 Docker Hub : [eflexcloud](https://hub.docker.com/u/eflexcloud)  
 - 🧪 GitHub Projects : [github.com/digitaleflex](https://github.com/digitaleflex)
 
 ---
-
