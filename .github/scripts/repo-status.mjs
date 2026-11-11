@@ -4,7 +4,7 @@
 // Env:
 //   GH_TOKEN       Personal access token with read access to all repos (required for private repos)
 //   PRIVATE_REPOS  show | mask (default) | hide  — how private repos appear in the PUBLIC README
-//   MAX_REPOS      max rows in the table (default 20)
+//   MAX_REPOS      how many of the most recently updated repos get their CI state checked (default 20)
 //   GITHUB_API_URL API base (default https://api.github.com)
 import { createHash } from "node:crypto";
 import { readFile, writeFile } from "node:fs/promises";
@@ -62,12 +62,6 @@ function ci(run) {
   return "🔴 failing";
 }
 
-function when(iso) {
-  return iso ? new Date(iso).toISOString().replace("T", " ").slice(0, 16) : "—";
-}
-
-const esc = (s) => String(s ?? "").replace(/\|/g, "\\|").replace(/\r?\n/g, " ");
-
 async function main() {
   let repos = (await listRepos()).filter((r) => !r.archived);
   if (MODE === "hide") repos = repos.filter((r) => !r.private);
@@ -82,26 +76,10 @@ async function main() {
   const active7 = repos.filter((r) => Date.now() - new Date(r.pushed_at) < 7 * DAY).length;
   const failing = runs.filter((r) => ci(r).includes("failing")).length;
 
-  let privateIndex = 0;
-  const rows = shown.map((r, i) => {
-    const masked = r.private && MODE === "mask";
-    const fresh = Date.now() - new Date(r.pushed_at) < DAY ? " 🔥" : "";
-    const name = masked ? `🔒 *Private project #${++privateIndex}*` : `${r.private ? "🔒" : "🌍"} [${esc(r.name)}](${r.html_url})`;
-    const desc = masked ? "" : esc(r.description).slice(0, 70);
-    const ciCell = !masked && runs[i] ? `[${ci(runs[i])}](${runs[i].html_url})` : ci(runs[i]);
-    return `| ${name}${fresh} | ${desc} | ${ciCell} | ${when(r.pushed_at)} | ${r.open_issues_count} | ${esc(r.language) || "—"} |`;
-  });
-
   const body = [
     `| 📦 Repos | 🌍 Public | 🔒 Private | 🔥 Active 24h | 📅 Active 7d | 🔴 CI failing |`,
     `|:---:|:---:|:---:|:---:|:---:|:---:|`,
     `| **${repos.length}** | ${pub} | ${priv} | ${active24} | ${active7} | ${failing} |`,
-    ``,
-    `| Repository | Description | CI | Last push | Issues/PRs | Language |`,
-    `|---|---|---|---|:---:|---|`,
-    ...rows,
-    ``,
-    repos.length > MAX ? `<sub>Showing the ${MAX} most recently updated of ${repos.length} repositories.</sub>` : "",
   ].join("\n");
 
   const readme = await readFile(README, "utf8");
