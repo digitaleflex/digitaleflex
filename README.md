@@ -37,7 +37,36 @@ Security isn't a feature I add at the end. It's built in **from day one**.
 > 🔥 = pushed in the last 24h · 🟢 passing · 🟡 running · 🔴 failing · ➖ no CI
 
 <!-- REPO-STATUS:START -->
-<sub>⏳ The first update will appear here after the workflow runs.</sub>
+<!-- fingerprint:df55ad76aa12 -->
+| 📦 Repos | 🌍 Public | 🔒 Private | 🔥 Active 24h | 📅 Active 7d | 🔴 CI failing |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **177** | 177 | 0 | 6 | 11 | 2 |
+
+| Repository | Description | CI | Last push | Issues/PRs | Language |
+|---|---|---|---|:---:|---|
+| 🌍 [digitaleflex](https://github.com/digitaleflex/digitaleflex) 🔥 | Config files for my GitHub profile. | [🟡 running](https://github.com/digitaleflex/digitaleflex/actions/runs/43062532813) | 2026-11-11 16:38 | 0 | — |
+| 🌍 [eflex.app](https://github.com/digitaleflex/eflex.app) 🔥 |  | [🟢 passing](https://github.com/digitaleflex/eflex.app/actions/runs/43033163961) | 2026-11-11 15:53 | 8 | TypeScript |
+| 🌍 [mirabelu](https://github.com/digitaleflex/mirabelu) 🔥 |  | [🟢 passing](https://github.com/digitaleflex/mirabelu/actions/runs/43021636684) | 2026-11-11 12:35 | 0 | TypeScript |
+| 🌍 [attestations-fsa](https://github.com/digitaleflex/attestations-fsa) 🔥 | EXAM SITE | [🔴 failing](https://github.com/digitaleflex/attestations-fsa/actions/runs/43021078438) | 2026-11-11 01:52 | 23 | TypeScript |
+| 🌍 [channel_Market](https://github.com/digitaleflex/channel_Market) 🔥 | site de e-commerce | [🟢 passing](https://github.com/digitaleflex/channel_Market/actions/runs/42951496614) | 2026-11-11 00:26 | 0 | Blade |
+| 🌍 [hashcode_reboot](https://github.com/digitaleflex/hashcode_reboot) 🔥 |  | [🟢 passing](https://github.com/digitaleflex/hashcode_reboot/actions/runs/42895427337) | 2026-11-10 20:25 | 1 | TypeScript |
+| 🌍 [blog-eurinhash](https://github.com/digitaleflex/blog-eurinhash) |  | ➖ | 2026-11-10 09:47 | 0 | TypeScript |
+| 🌍 [osint360](https://github.com/digitaleflex/osint360) |  | ➖ | 2026-11-08 12:01 | 0 | HTML |
+| 🌍 [aura-storage](https://github.com/digitaleflex/aura-storage) |  | [🔴 failing](https://github.com/digitaleflex/aura-storage/actions/runs/42045243100) | 2026-11-05 14:27 | 29 | Python |
+| 🌍 [WPOpsX](https://github.com/digitaleflex/WPOpsX) | WPOpsX est une stack DevOps clé en main pour déployer, sécuriser, supe | [🟢 passing](https://github.com/digitaleflex/WPOpsX/actions/runs/42613604068) | 2026-11-05 01:37 | 3 | Shell |
+| 🌍 [job_ob](https://github.com/digitaleflex/job_ob) |  | ➖ | 2026-11-04 20:39 | 0 | — |
+| 🌍 [hashcode-masterclass-virtualisation](https://github.com/digitaleflex/hashcode-masterclass-virtualisation) |  | ➖ | 2026-10-31 20:29 | 0 | HTML |
+| 🌍 [hashscrap](https://github.com/digitaleflex/hashscrap) |  | [🟢 passing](https://github.com/digitaleflex/hashscrap/actions/runs/39125875882) | 2026-10-29 22:06 | 4 | Python |
+| 🌍 [macaisse](https://github.com/digitaleflex/macaisse) |  | ➖ | 2026-10-29 16:31 | 12 | TypeScript |
+| 🌍 [veille-ultime](https://github.com/digitaleflex/veille-ultime) |  | [🟢 passing](https://github.com/digitaleflex/veille-ultime/actions/runs/40669836477) | 2026-10-28 10:09 | 0 | TypeScript |
+| 🌍 [velocita](https://github.com/digitaleflex/velocita) |  | ➖ | 2026-10-28 09:52 | 51 | TypeScript |
+| 🌍 [axiom](https://github.com/digitaleflex/axiom) |  | [🟢 passing](https://github.com/digitaleflex/axiom/actions/runs/40090716991) | 2026-10-28 09:50 | 62 | Go |
+| 🌍 [GitHub-Cyber-Scanner-Pro](https://github.com/digitaleflex/GitHub-Cyber-Scanner-Pro) |  | [🟢 passing](https://github.com/digitaleflex/GitHub-Cyber-Scanner-Pro/actions/runs/43031933042) | 2026-10-28 09:50 | 28 | Python |
+| 🌍 [eurinhash](https://github.com/digitaleflex/eurinhash) |  | [🟢 passing](https://github.com/digitaleflex/eurinhash/actions/runs/40192519282) | 2026-10-25 12:18 | 4 | TypeScript |
+| 🌍 [macaisse_aistudio](https://github.com/digitaleflex/macaisse_aistudio) | Style documentaire cyberécurité moderne et pédagogique.  Créer une min | ➖ | 2026-10-25 10:31 | 0 | TypeScript |
+
+<sub>Showing the 20 most recently updated of 177 repositories.</sub>
+<sub>⏱️ Auto-updated 2026-11-11 16:52 UTC · times in UTC</sub>
 <!-- REPO-STATUS:END -->
 
 ---
