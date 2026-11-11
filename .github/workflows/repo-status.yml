@@ -1,0 +1,46 @@
+name: Repo Status
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # every 30 minutes
+  workflow_dispatch: # manual "Run workflow" button
+  repository_dispatch: # instant refresh, triggered from your other repos
+    types: [repo-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-status
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📡 Refresh repository status in README
+        env:
+          # PAT with read access to ALL your repos (private included).
+          GH_TOKEN: ${{ secrets.REPO_STATUS_TOKEN || secrets.METRICS_TOKEN }}
+          # show | mask | hide — how private repos appear in this PUBLIC README
+          PRIVATE_REPOS: mask
+          MAX_REPOS: 20
+        run: node .github/scripts/repo-status.mjs
+
+      - name: 💾 Commit if something changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📡 Update live repository status"
+          git push
