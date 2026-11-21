@@ -36,11 +36,11 @@ Security isn't a feature I add at the end. It's built in **from day one**.
 > What I'm shipping right now — public **and** private repositories, refreshed automatically by a GitHub Action.
 
 <!-- REPO-STATUS:START -->
-<!-- fingerprint:ece8329ebf3c -->
+<!-- fingerprint:cfe6d60c6a76 -->
 | 📦 Repos | 🌍 Public | 🔒 Private | 🔥 Active 24h | 📅 Active 7d | 🔴 CI failing |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **184** | 184 | 0 | 4 | 13 | 5 |
-<sub>⏱️ Auto-updated 2026-11-21 14:54 UTC · times in UTC</sub>
+| **184** | 184 | 0 | 5 | 13 | 4 |
+<sub>⏱️ Auto-updated 2026-11-21 20:50 UTC · times in UTC</sub>
 <!-- REPO-STATUS:END -->
 
 ---
